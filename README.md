@@ -46,7 +46,7 @@
 # Run
 Steps to Execute the Project
     
-    1) Open CMD in directory where "app.py" is stored (Basically, Open CMD to this folder)
+    1) Open CMD in directory where "app.py" is stored 
     
     2) enter : python app.py
     
